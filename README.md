@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Pallavi</h1>
 <h3 align="center">Passionate about Tech, Committed to Excellence"</h3>
 
