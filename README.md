@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pallavi</h1>
-<h3 align="center">Passionate about Tech, Committed to Excellence"</h3>
+<h3 align="center">Passionate about Tech, Committed to Excellence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kpallavi5&label=Profile%20views&color=0e75b6&style=flat" alt="kpallavi5" /> </p>
 
